@@ -1,0 +1,188 @@
+# depslib dependency file v1.0
+1616377138 source:d:\project\hospital-management\hospital\index.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1616378312 source:d:\project\hospital-management\hospital\login.c
+	<stdio.h>
+
+1616037355 source:d:\project\hospital-management\hospital\main-menu.c
+
+1616033014 source:d:\project\hospital-management\hospital\admin-menu.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1613320281 source:d:\project\hospital-management\hospital\adminhomescreen.c
+
+1616377547 source:d:\project\hospital-management\hospital\doctor-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1611465737 d:\project\hospital-management\hospital\doctor-information.c
+	<stdio.h>
+
+1616031934 source:d:\project\hospital-management\hospital\extension.c
+	<stdio.h>
+	<time.h>
+
+1616377090 source:d:\project\hospital-management\hospital\about-us.c
+
+1613317913 source:d:\project\hospital-management\hospital\welcomescreen.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1616031390 source:d:\project\hospital-management\hospital\wecome-screen.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616377961 source:d:\project\hospital-management\hospital\patient-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616377090 source:d:\project\hospital-management\hospital\search.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616378083 source:d:\project\hospital-management\hospital\staff-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616378264 source:d:\project\hospital-management\hospital\settings.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1614760718 source:d:\project\hospital-management\hospital\data-validation.c
+
+1616408497 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\about-us.c
+
+1616033016 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\admin-menu.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1613320282 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\adminhomescreen.c
+
+1614760720 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\data-validation.c
+
+1616377548 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\doctor-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616031936 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\extension.c
+	<stdio.h>
+	<time.h>
+
+1616389555 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\index.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1616378314 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\login.c
+	<stdio.h>
+
+1616408999 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\main-menu.c
+
+1616377962 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\patient-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616377092 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\search.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616378486 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\settings.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1616378084 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\staff-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616409028 source:d:\bubt book\3rd semester\software development\project\final project\hptl\final-project\hospital\wecome-screen.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
